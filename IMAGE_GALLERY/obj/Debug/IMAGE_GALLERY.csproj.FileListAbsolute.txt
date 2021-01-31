@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\IMAGE_GALLERY\IMAGE_GALLERY\bin\IMAGE_GALLERY.dll
+c:\users\admin\documents\visual studio 2012\Projects\IMAGE_GALLERY\IMAGE_GALLERY\bin\IMAGE_GALLERY.pdb
+c:\users\admin\documents\visual studio 2012\Projects\IMAGE_GALLERY\IMAGE_GALLERY\obj\Debug\IMAGE_GALLERY.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\IMAGE_GALLERY\IMAGE_GALLERY\obj\Debug\IMAGE_GALLERY.dll
+c:\users\admin\documents\visual studio 2012\Projects\IMAGE_GALLERY\IMAGE_GALLERY\obj\Debug\IMAGE_GALLERY.pdb
